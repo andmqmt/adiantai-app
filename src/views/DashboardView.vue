@@ -2,7 +2,7 @@
   <main class="dashboard">
     <header class="dashboard-header">
       <div class="header-left">
-        <h1 class="logo">🐄 PastoVivo</h1>
+        <h1 class="logo">🐄 Adiantai</h1>
         <p class="subtitle">Rastreamento em tempo real de rebanho</p>
       </div>
       <div class="header-right">
