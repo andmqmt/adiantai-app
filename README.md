@@ -1,4 +1,4 @@
-# PastoVivo — Frontend
+# Adiantai — Frontend
 
 Interface web em Vue 3 para rastreamento em tempo real de rebanho bovino. Exibe um mapa interativo com a posição e status de cada animal, atualizado via SignalR a cada 2 segundos.
 
