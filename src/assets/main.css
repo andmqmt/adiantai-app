@@ -1,0 +1,14 @@
+*, *::before, *::after { box-sizing: border-box; }
+
+html, body, #app {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  background: #f1f5f9;
+}
+
+.animal-tooltip {
+  font-size: 0.8rem;
+  line-height: 1.5;
+}
